@@ -79,4 +79,4 @@ A role-based educational management portal with admin, teacher, and student dash
 
 ### Let's Connect
 
-- LinkedIn: (https://www.linkedin.com/in/momina-abbasi-8691072b0/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/momina-abbasi-8691072b0/)
