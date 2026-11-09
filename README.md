@@ -11,8 +11,8 @@ I'm passionate about web development, software engineering, and turning concepts
 ### About Me
 
 - Working with **React.js, JavaScript, and the MERN Stack**
-- Continuously strengthening my full-stack development and software engineering skills
-- Building practical projects to improve my development experience
+- Building practical projects to strengthen my full-stack development skills
+- Continuously improving my problem-solving and software engineering abilities
 - Computer Science undergraduate
 - Interested in full-stack development, system design, and AI-integrated applications
 
@@ -21,22 +21,14 @@ I'm passionate about web development, software engineering, and turning concepts
 ### Tech Stack
 
 **Frontend**
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
+- HTML5, CSS3, JavaScript
+- React.js, Tailwind CSS
 
 **Backend & Database**
-
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+- Node.js, Express.js
+- MongoDB, Mongoose
 
 **Tools**
-
 - Git & GitHub
 - VS Code
 - Postman
@@ -47,7 +39,15 @@ I'm passionate about web development, software engineering, and turning concepts
 
 **Baaji — Full-Stack Fashion E-commerce Website**
 
-A full-stack e-commerce project featuring a customer storefront, product management, authentication, and an administrative dashboard.
+A full-stack e-commerce application featuring a customer storefront, product management, authentication, order workflows, and an administrative dashboard.
+
+**Visionaire CMS Portal — Educational Management System**
+
+A MERN-based educational management portal with role-specific Admin, Teacher, and Student dashboards. Core workflows are implemented, with UI refinement and further improvements ongoing.
+
+**Visionaire Code — Full-Stack Developer Website**
+
+A multi-page web development website featuring project showcases, service information, case studies, contact inquiries, and an admin management dashboard. Further UI polishing and improvements are ongoing.
 
 **Clothing Store — React Landing Page**
 
@@ -60,10 +60,6 @@ A restaurant-themed single-page frontend website.
 **Luxe Gold Beauty Salon — React Landing Page**
 
 A beauty salon website template featuring services, gallery, testimonials, and an appointment interface.
-
-**Visionaire CMS Portal — In Development**
-
-A role-based educational management portal with admin, teacher, and student dashboards.
 
 ---
 
